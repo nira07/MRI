@@ -1,0 +1,1 @@
+viewer = MRIViewer("chris_t1.nii.gz")
